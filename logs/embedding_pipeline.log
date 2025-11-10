@@ -1,3 +1,8 @@
 2025-11-11 00:07:36,562 | INFO | All items already have embeddings. No new rows found.
 2025-11-11 00:07:39,344 | INFO | Generated embeddings for 0 products.
 2025-11-11 00:07:39,352 | INFO | Saved updated embeddings with 10 total records.
+2025-11-11 00:09:07,819 | INFO | Embedding generated | Tokens: 3 | Time: 2.64s
+2025-11-11 00:09:08,532 | INFO | Embedding generated | Tokens: 3 | Time: 0.39s
+2025-11-11 00:09:09,065 | INFO | Embedding generated | Tokens: 3 | Time: 0.53s
+2025-11-11 00:09:10,282 | INFO | Embedding generated | Tokens: 3 | Time: 1.20s
+2025-11-11 00:09:10,812 | INFO | Embedding generated | Tokens: 3 | Time: 0.53s

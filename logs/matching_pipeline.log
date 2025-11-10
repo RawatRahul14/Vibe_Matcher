@@ -1,0 +1,24 @@
+2025-11-11 00:09:05,177 | INFO | Converted stringified embeddings to lists.
+2025-11-11 00:09:07,820 | INFO | Generated query embedding for: 'energetic urban chic'
+2025-11-11 00:09:07,822 | INFO | Top 3 results generated successfully for query: 'energetic urban chic'
+2025-11-11 00:09:08,138 | INFO | Running evaluation for query: 'energetic urban chic'
+2025-11-11 00:09:08,532 | INFO | Generated query embedding for: 'energetic urban chic'
+2025-11-11 00:09:08,534 | INFO | Top 3 results generated successfully for query: 'energetic urban chic'
+2025-11-11 00:09:08,535 | INFO | Query 'energetic urban chic' | 3 results | Avg Sim: 0.833 | Latency: 0.4s
+2025-11-11 00:09:08,538 | INFO | Created new evaluation log file.
+2025-11-11 00:09:08,538 | INFO | Running evaluation for query: 'cozy winter comfort'
+2025-11-11 00:09:09,066 | INFO | Generated query embedding for: 'cozy winter comfort'
+2025-11-11 00:09:09,068 | INFO | Top 3 results generated successfully for query: 'cozy winter comfort'
+2025-11-11 00:09:09,068 | INFO | Query 'cozy winter comfort' | 3 results | Avg Sim: 0.839 | Latency: 0.53s
+2025-11-11 00:09:09,070 | INFO | Appended evaluation log for query: 'cozy winter comfort'
+2025-11-11 00:09:09,083 | INFO | Running evaluation for query: 'luxury evening glamour'
+2025-11-11 00:09:10,282 | INFO | Generated query embedding for: 'luxury evening glamour'
+2025-11-11 00:09:10,284 | INFO | Top 3 results generated successfully for query: 'luxury evening glamour'
+2025-11-11 00:09:10,285 | INFO | Query 'luxury evening glamour' | 3 results | Avg Sim: 0.843 | Latency: 1.2s
+2025-11-11 00:09:10,286 | INFO | Appended evaluation log for query: 'luxury evening glamour'
+2025-11-11 00:09:10,286 | INFO | Running evaluation for query: 'techwear cyberpunk neon'
+2025-11-11 00:09:10,812 | INFO | Generated query embedding for: 'techwear cyberpunk neon'
+2025-11-11 00:09:10,814 | INFO | Top 3 results generated successfully for query: 'techwear cyberpunk neon'
+2025-11-11 00:09:10,815 | INFO | Query 'techwear cyberpunk neon' | 3 results | Avg Sim: 0.806 | Latency: 0.53s
+2025-11-11 00:09:10,817 | INFO | Appended evaluation log for query: 'techwear cyberpunk neon'
+2025-11-11 00:13:20,461 | INFO | Plotted latency metrics (Avg: 0.66s).
