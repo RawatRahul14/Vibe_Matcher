@@ -1,0 +1,6 @@
+numpy==2.3.4
+pandas==2.3.3
+scikit-learn==1.7.2
+openai==2.7.1
+matplotlib==3.10.7
+python-dotenv==1.2.1

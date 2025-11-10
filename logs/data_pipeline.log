@@ -1,0 +1,4 @@
+2025-11-11 00:07:36,532 | INFO | Successfully loaded data from the file: data\raw\data.csv
+2025-11-11 00:07:36,549 | INFO | Successfully loaded data from the file: data\embeddings\data.csv
+2025-11-11 00:07:39,319 | INFO | Started saving file at: data\embeddings\data.csv
+2025-11-11 00:07:39,320 | INFO | Successfully saved file at: data\embeddings\data.csv

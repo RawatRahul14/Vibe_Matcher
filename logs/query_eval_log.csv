@@ -1,0 +1,5 @@
+timestamp,query,results,threshold,num_results,good_matches,avg_similarity,latency_sec,status
+2025-11-11 00:09:08,energetic urban chic,['Street Hoodie' 'Athleisure Set' 'Boho Dress'],0.7,3,3,0.833,0.4,Success
+2025-11-11 00:09:09,cozy winter comfort,['Cozy Sweater' 'Athleisure Set' 'Street Hoodie'],0.7,3,3,0.839,0.53,Success
+2025-11-11 00:09:10,luxury evening glamour,['Silk Gown' 'Festival Kimono' 'Boho Dress'],0.7,3,3,0.843,1.2,Success
+2025-11-11 00:09:10,techwear cyberpunk neon,['Festival Kimono' 'Street Hoodie' 'Chic Blazer'],0.7,3,3,0.806,0.53,Success
